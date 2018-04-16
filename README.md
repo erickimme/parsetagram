@@ -46,8 +46,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
+![alt text](https://github.com/erickimme/parsetagram/blob/master/parsetagram_eric.gif)
 <img src='https://i.imgur.com/KkJlqO5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
